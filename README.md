@@ -30,26 +30,48 @@
 
 ### 🔍 SQL Database Server (In Progress)
 A scalable SQL database server deployed on AWS infrastructure focusing on secure database management practices and optimized query performance.
+- Technologies: AWS, SQL, Jira
+- Features: Secure database management, optimized query performance, efficient data storage
+- [View Repository](#) <!-- Add actual link when created -->
 
 ### 📚 College Study Mate (In Progress)
 A comprehensive platform for college students to collaborate and share resources with user authentication, study group management, and academic scheduling features.
+- Technologies: Web Development, Database Design, Node.js
+- Features: User authentication, study group management, resource sharing, academic scheduling
+- Problem Solved: Fragmented study resources and inefficient collaboration among college students
+- [View Repository](#) <!-- Add actual link when created -->
+
+### 🤖 Igris - AI Virtual Assistant
+An advanced virtual assistant built using natural language processing and machine learning to help with daily tasks and information retrieval.
+- Technologies: Python, NLP Libraries, TensorFlow
+- Features: Voice recognition, contextual responses, task automation, knowledge retrieval
+- Integration with various APIs for weather, news, and other information sources
+- [View Repository](#) <!-- Add actual link when created -->
 
 ### ⚡ Formula SAE EV Battery System
 Designed and implemented a battery management system (BMS) for a Formula SAE electric vehicle using C++ and embedded systems programming.
+- Technologies: C++, Embedded Systems, PCB Design
+- Features: Battery monitoring, safety protocols, thermal management
+- Achieved optimal power delivery while maintaining safety standards
+- [View Repository](#) <!-- Add actual link when created -->
 
 ### 🤖 FIRST Robotics Competition Projects
 Led additive manufacturing initiatives and implemented control systems for competition robots using C++ and embedded programming.
+- Technologies: C++, Hardware Integration, CAD
+- Role: Manufacturing Lead for two consecutive years
+- Achievements: Optimized component production, implemented effective control systems
+- [View Repository](#) <!-- Add actual link when created -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joseph-Rus&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph-Rus&theme=github-dark-blue" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Joseph-Rus&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📫 Connect with Me
@@ -59,4 +81,4 @@ Led additive manufacturing initiatives and implemented control systems for compe
   <a href="https://jbrussell.net"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-<!-- Don't forget to replace YOURUSERNAME with your actual GitHub username -->
+<!-- Profile README for Joseph-Rus -->
