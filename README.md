@@ -9,7 +9,7 @@
 - 💻 Currently working on SQL Database Server (AWS) and College Study Mate platform
 - 🤖 Previous Manufacturing Lead in FIRST Robotics Competition
 - 🔧 Experience in both software development and hardware integration
-- 🌐 Check out my portfolio: [jbrussell.net](https://jbrussell.net)
+
 
 ## 🛠️ Technical Skills
 
