@@ -7,9 +7,7 @@
 ## About Me
 
 - CS student at **California Baptist University** — graduating April 2027
-- Incoming **Software Engineering Intern @ Southern California Edison** (Grid Control, SCADA/ADMS)
 - Building AI-native tools — from RAG pipelines to agentic automation
-- Co-lead of the **Software Engineering Team (SET)** @ CBU ACM
 - Portfolio: [jbrussell.net](https://jbrussell.net)
 
 ---
