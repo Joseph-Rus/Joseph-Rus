@@ -1,72 +1,100 @@
+<div align="center">
+
 # Hi, I'm Joey Russell
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Computer+Science+%40+CBU;Full-Stack+%26+AI+Developer;Incoming+SCE+Grid+Control+Intern;Builder+of+Real+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0969DA&center=true&vCenter=true&width=560&lines=Computer+Science+%40+CBU;Full-Stack+%26+AI+Developer;Local-first+AI+tools;Builder+of+real+things" alt="Computer Science at CBU. Full-stack and AI developer. Local-first AI tools. Builder of real things." />
+
+CS student at **California Baptist University**, graduating April 2027.
+I build AI-native tools that run on hardware you own: RAG pipelines, local models, and agentic automation.
+
+<a href="https://jbrussell.net"><img src="https://img.shields.io/badge/Portfolio-jbrussell.net-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: jbrussell.net" /></a>
+<a href="https://www.linkedin.com/in/josephbernardrussell/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:josephbernardrussell@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
-
-## About Me
-
-- CS student at **California Baptist University** — graduating April 2027
-- Building AI-native tools — from RAG pipelines to agentic automation
-- Portfolio: [jbrussell.net](https://jbrussell.net)
 
 ---
 
-## Experience
+## Featured: [Study Stash](https://github.com/Joseph-Rus/study-stash)
 
-**Software Developer (Contract)** — *Medical Eyeglass Center* `May–Aug 2025`
-Built an optical dispensary management system with React/TypeScript, Firebase auth, Firestore, and an AI-powered lens matching algorithm.
+**Your Granola lecture recordings, turned into study notes by a model on your own Mac mini, and filed by class.**
 
-**Business Development Intern** — *VETS, LLC* `Mar–Jun 2025`
-Automated RFI/proposal workflows with GPT, built integration pipelines across HigherGov, HubSpot, Zapier, and Jira, and deployed an OpenAI assistant for RFP response surfacing.
+<a href="https://github.com/Joseph-Rus/study-stash"><img src="https://raw.githubusercontent.com/Joseph-Rus/study-stash/main/docs/screenshots/library.png" width="720" alt="Study Stash: a Mac app showing a library of lectures sorted into classes" /></a>
 
-**AV Technician** — *California Baptist University* `Sep 2024–Feb 2025`
-Maintained AV infrastructure across 50+ campus facilities, supported 200+ faculty/staff.
+- A **native macOS app** (Swift, AppKit) with This Mac and Library tabs, menus, and downloads.
+- A **Python/FastAPI library** on an always-on computer. It queues each lecture, writes study notes from the transcript with a local **Ollama** model, and sorts it into a class with a structured-output classifier.
+- **Private by design:** everything runs on your own machines over **Tailscale**, with no cloud AI and no analytics.
+- **Shipped like a real product:** one-line installers, auto-updates, and CI on macOS, Linux, and Windows that builds a universal DMG for every release.
+
+`Python` `FastAPI` `Swift` `Ollama` `SQLite` `GitHub Actions`
 
 ---
 
 ## Projects
 
-### AI Trading Platform *(In Progress)*
-Predictive model analyzing market data + media sentiment to generate trading signals. Flutter frontend, Python backend, Alpaca API, Ollama.
+### AI Trading Platform <sub>in progress</sub>
 
-### Custom Home Assistant *(In Progress)*
-Voice-controlled home automation — Whisper for STT, Piper for TTS, LangChain for function calling, N8N for IoT workflow automations.
+A predictive model that combines market data with media sentiment to generate trading signals.
 
-### Contract Intelligence Platform *(Completed)*
-AI-powered federal contract filtering system with SAM.gov integration and an OpenAI-backed scoring algorithm for opportunity matching.
+`Flutter` `Python` `Alpaca API` `Ollama`
+
+### Custom Home Assistant <sub>in progress</sub>
+
+Voice-controlled home automation: Whisper for speech-to-text, Piper for text-to-speech, LangChain for function calling, and n8n for IoT workflows.
+
+`Whisper` `Piper` `LangChain` `n8n`
+
+### Contract Intelligence Platform <sub>completed</sub>
+
+AI-powered filtering of federal contracts, with SAM.gov integration and an OpenAI-backed score for matching opportunities.
+
+`SAM.gov API` `OpenAI API` `Python`
 
 ---
 
-## Tech Stack
+## Experience
 
-**Languages:** Python · JavaScript · TypeScript · C++ · Java · SQL · Assembly · HTML/CSS
+| Role | Where | When |
+|---|---|---|
+| **Software Developer** (contract) | Medical Eyeglass Center | May–Aug 2025 |
+| **Business Development Intern** | VETS, LLC | Mar–Jun 2025 |
+| **AV Technician** | California Baptist University | Sep 2024–Feb 2025 |
 
-**Frameworks:** React · Node.js · Flutter · LangChain · Firebase
+- **Medical Eyeglass Center:** built an optical dispensary management system in React and TypeScript, with Firebase auth, Firestore, and an AI-powered lens-matching algorithm.
+- **VETS, LLC:** automated RFI and proposal workflows with GPT. Built integration pipelines across HigherGov, HubSpot, Zapier, and Jira, and deployed an OpenAI assistant that surfaces RFP answers.
+- **CBU:** maintained AV infrastructure across 50+ campus facilities for 200+ faculty and staff.
+
+---
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,swift,html,css&perline=8" alt="Python, TypeScript, JavaScript, C++, Java, Swift, HTML, CSS" /><br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dart,fastapi,firebase,mysql,sqlite&perline=8" alt="React, Node.js, Flutter, Dart, FastAPI, Firebase, MySQL, SQLite" /><br />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,kali,raspberrypi,apple,git&perline=8" alt="AWS, Google Cloud, Linux, Ubuntu, Kali Linux, Raspberry Pi, macOS, Git" />
+</p>
 
 **AI/ML:** OpenAI API · Ollama · Whisper · LangChain · RAG pipelines
 
-**Cloud & DevOps:** AWS · Firebase · GCP · SSH · OpenSSH
-
-**OS:** Linux (Ubuntu 24.04, Kali, Raspberry Pi OS) · macOS
-
-**Tools:** Jira · SolidWorks · AutoCAD · Git
+**Also:** Assembly · Jira · SolidWorks · AutoCAD · SSH
 
 ---
 
-## GitHub Stats
+## GitHub activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joseph-Rus&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph-Rus&theme=github-dark-blue&hide_border=true" />
-</div>
-
----
-
-## Connect
-
-<div align="center">
-  <a href="mailto:josephbernardrussell@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/josephbernardrussell/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://jbrussell.net"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joseph-Rus&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joseph-Rus&theme=github" alt="Joey's GitHub contributions over time" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joseph-Rus&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joseph-Rus&theme=github" height="165" alt="Joey's top languages by repository" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joseph-Rus&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joseph-Rus&theme=github" height="165" alt="Joey's top languages by commits" />
+  </picture>
+</p>
