@@ -7,7 +7,6 @@
 CS student at **California Baptist University**, graduating April 2027.
 I build AI-native tools that run on hardware you own: RAG pipelines, local models, and agentic automation.
 
-<a href="https://jbrussell.net"><img src="https://img.shields.io/badge/Portfolio-jbrussell.net-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: jbrussell.net" /></a>
 <a href="https://www.linkedin.com/in/josephbernardrussell/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:josephbernardrussell@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
